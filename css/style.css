@@ -535,6 +535,8 @@ a.date h5:hover{
 }*/
 .person1{
 	background:url(https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3378708182,3822632179&fm=26&gp=0.jpg) no-repeat 0px 0px;
+	background-position: center;
+	background-size: cover;
 	width:110px;
 	height:110px;
 	display:block;
@@ -545,6 +547,8 @@ a.date h5:hover{
 }
 .person2{
 	background:url(https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1858137112,3715794968&fm=26&gp=0.jpg) no-repeat 0px 0px;
+	background-position: center;
+	background-size: cover;
 	width:110px;
 	height:110px;
 	display:block;
